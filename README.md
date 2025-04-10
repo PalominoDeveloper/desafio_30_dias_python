@@ -25,8 +25,8 @@ Este es un desafío de programación de 30 días que me ayudará a aprender Pyth
 
 | Día | Tema | Estado |
 |-----|------|--------|
-| 1   | Introduction | 🚧 |
-| 2   | Variables, Built-in Functions | ⏳ |
+| 1   | Introduction | ✅ |
+| 2   | Variables, Built-in Functions | ✅ |
 | 3   | Operators | ⏳ |
 | 4   | Strings | ⏳ |
 | 5   | Lists | ⏳ |
