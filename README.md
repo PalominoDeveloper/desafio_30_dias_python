@@ -1,4 +1,4 @@
-# 30 Days of Python Challenge
+# Desafio_30_dias_python
 
 Este repositorio contiene mi progreso y soluciones para el desafío "30 Days of Python" creado por [Asabeneh Yetayeh](https://github.com/Asabeneh).
 
